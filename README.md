@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/christianb3ll/FM-Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://christianb3ll.github.io/FM-Stats-preview-card-component/)
+- Solution URL: [GitHub solution files](https://github.com/christianb3ll/FM-Stats-preview-card-component)
+- Live Site URL: [Live demo](https://christianb3ll.github.io/FM-Stats-preview-card-component/)
 
 ### Built with
 
